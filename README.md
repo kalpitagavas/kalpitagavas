@@ -1,4 +1,4 @@
-![logo](https://github.com/kalpitagavas/kalpitagavas/blob/main/Kalpita%20Gavas%20(2).png)
+![logo](https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif)
 <h1 align="center">Hi 👋, I'm Kalpita Gavas</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
