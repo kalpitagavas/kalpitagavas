@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=280&section=header&text=Kalpita%20Gavas&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=51&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=280&section=header&text=Kalpita%20Gavas&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20MERN%20%26%20.NET&descAlignY=51&descSize=20" />
 </p>
 
 <p align="center">
@@ -10,43 +10,39 @@
 
 ---
 
-### 💫 Professional Overview
-I am a **Full-Stack Developer** with a passion for building clean, efficient, and scalable web applications. With a solid 2-year foundation in **.NET ecosystem**, I am currently specializing in **MERN stack** development to build modern, high-performance user experiences.
+### 🚀 Technical Trajectory
+I am a **Software Developer** specializing in high-performance web architectures. With a professional background in **enterprise .NET environments**, I am currently scaling my expertise into the **MERN Stack** to build modern, distributed systems.
 
-- 🚀 **The Transition:** Actively migrating enterprise logic from **.NET/SQL** to **Node.js/React**.
-- 🔭 **Architecting:** **TaskSync-Pro** — A Workforce Management System with RBAC and secure API integration.
-- ⚡ **Philosophy:** I believe in writing code that is **readable**, **maintainable**, and **secure**.
-- 🎨 **Creative Outlet:** Outside of tech, I find balance through **Resin Art** and digital storytelling.
-
----
-
-### 🛠️ Technical Ecosystem
-
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | `React.js` `Next.js` `Redux Toolkit` `Tailwind CSS` `Bootstrap` `JavaScript (ES6+)` |
-| **Backend** | `Node.js` `Express.js` `ASP.NET MVC` `.NET Core` `REST APIs` |
-| **Database** | `MongoDB` `MS SQL Server` `MySQL` `PostgreSQL` |
-| **Workflow** | `Git` `GitHub Actions` `Postman` `Docker` `Vite` `npm/yarn` |
+- 💻 **Experience:** 2+ Years in Full-Stack Development & Database Management.
+- 🛠️ **Current Build:** [TaskSync-Pro](https://github.com/kalpitagavas/TaskSync-Pro) — Workforce management with RBAC & JWT.
+- 📈 **Learning:** Microservices architecture, Next.js 14, and Cloud Native patterns.
+- ⚡ **Commitment:** Delivering clean, testable code that drives business value.
 
 ---
 
-### 🚀 High-Impact Projects
+### 🧰 The Master Tech Stack
 
-#### 📂 [TaskSync-Pro](https://github.com/kalpitagavas/TaskSync-Pro)
-*Enterprise-grade Workforce Management System.*
-- **Core:** Built using **React** and **Node.js** with a focus on Role-Based Access Control (RBAC).
-- **Security:** Implemented **JWT Authentication**, secure cookie handling, and **Bcrypt** hashing.
-- **UI:** Designed a responsive dashboard with real-time status updates using **Context API**.
-
-#### 📂 [SpendWise](https://github.com/kalpitagavas/SpendWise)
-*Financial analytics dashboard for personal expense management.*
-- **Tech:** React, Chart.js, and browser storage optimization.
-- **Focus:** High-performance data rendering and seamless mobile responsiveness.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,js,html,css" alt="Frontend Skills" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,mssql,postman,git" alt="Backend & Tools" />
+</p>
 
 ---
 
-### 📈 Metrics & Performance
+### 📂 High-Value Repositories
+
+| Project | Tech Stack | Key Architectural Focus |
+| :--- | :--- | :--- |
+| **TaskSync-Pro** | `MERN` `JWT` `RBAC` | Implementing secure Role-Based Access Control and centralized state. |
+| **SpendWise** | `React` `Chart.js` | Performance-focused data visualization and optimized storage logic. |
+| **WorkSync-API** | `Node.js` `Express` | Building scalable RESTful endpoints with error-handling middleware. |
+
+---
+
+### 📊 GitHub Activity Hub
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kalpitagavas&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpitagavas&layout=compact&theme=tokyonight&hide_border=true" />
@@ -58,7 +54,7 @@ I am a **Full-Stack Developer** with a passion for building clean, efficient, an
 
 ---
 
-### 🏆 Engineering Trophies
+### 🏆 Technical Recognition
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kalpitagavas&theme=tokyonight&no-bg=true&margin-w=15" />
@@ -67,18 +63,22 @@ I am a **Full-Stack Developer** with a passion for building clean, efficient, an
 
 ---
 
-### 🐍 My GitHub Journey
+### 🐍 Contribution Dynamics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kalpitagavas/kalpitagavas/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/kalpitagavas/kalpitagavas/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+### 💬 Let's Connect
+> "The best way to predict the future is to code it."
+
+<p align="left">
+  <b>Reach out for collaborations, tech discussions, or opportunities:</b><br>
+  • 💼 LinkedIn: [Kalpita Gavas](https://linkedin.com/in/kalpita-gawas-76177a213)<br>
+  • 📧 Email: [kalpitagavas20@gmail.com](mailto:kalpitagavas20@gmail.com)
 </p>
 
-<p align="center">
-  <b>Let's build the future of the web together!</b><br>
+<p align="right">
   <img src="https://raw.githubusercontent.com/Mayank-Hacker/Mayank-Hacker/master/assets/wave.gif" width="30px">
 </p>
