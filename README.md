@@ -63,21 +63,7 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpitagavas&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-### 🏆 Trophies & Contributions
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kalpitagavas&theme=tokyonight&no-bg=true&margin-w=15" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kalpitagavas/kalpitagavas/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
 
 ### 📫 Connect with Me
 <p align="center">
