@@ -1,66 +1,85 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/1effdbbd80ddf745de7ea9e4ba346cc9c8d193f6c5f661ee7a8b145d4c8aaa88/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7942764135436e455833536434616f642e676966" alt="Software Engineering GIF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Kalpita%20Gavas&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=51&descSize=20" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Kalpita Gavas</h1>
-<h3 align="center">Full-Stack Developer | Transitioning from .NET to MERN Stack 🚀</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/kalpita-gawas-76177a213"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kalpitagavas20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://youtube.com/@Unfiltered_Kalpita"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
+
+### 💫 About Me
+I am a **Software Developer** with over 2 years of professional experience in the tech ecosystem. I specialize in bridging the gap between structured enterprise backends and dynamic, modern frontends.
+
+- 🚀 **Transitioning:** Moving from **.NET/SQL** architecture to the **MERN Stack** mastery.
+- 🔭 **Current Project:** Architecting **TaskSync-Pro** — a high-scale workforce management tool.
+- 🎓 **Education:** B.Sc in IT (2021) from KES Shroff College, Mumbai.
+- 🎨 **Creative Side:** I run a YouTube channel with daily vlogs and create custom Resin Art.
+- 💬 **Goal:** To deliver lightweight, high-performance web solutions that align with business goals.
+
+---
+
+### 🛠️ Technical Arsenal
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Frontend** | `React.js` `Next.js` `Redux` `Tailwind CSS` `Bootstrap` `HTML5/CSS3` |
+| **Backend** | `Node.js` `Express.js` `ASP.NET MVC` `.NET Core` |
+| **Database** | `MongoDB` `SQL Server` `MySQL` |
+| **DevOps/Tools** | `Git` `GitHub Actions` `Postman` `Vite` `npm/yarn` |
+
+---
+
+### 🚀 Key Projects
+
+#### 📂 [TaskSync-Pro](https://github.com/kalpitagavas/TaskSync-Pro)
+*Workforce Management System with Role-Based Access Control.*
+- **Tech:** React, Node.js, MongoDB, JWT, Axios.
+- **Impact:** Solves the complexity of manager-employee task delegation with a secure, real-time dashboard.
+
+#### 📂 [SpendWise Dashboard](https://github.com/kalpitagavas/SpendWise)
+*Personal Expense Tracker with visual analytics.*
+- **Tech:** React, Chart.js, LocalStorage.
+- **Impact:** Helps users visualize spending habits through interactive data visualization.
+
+---
+
+### 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalpitagavas&label=Profile%20views&color=0e75b6&style=flat-square" alt="kalpitagavas" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kalpitagavas&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpitagavas&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpitagavas&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🎥 Content & Creativity
+Check out my latest vlogs and creative projects here:
+- 🎬 **YouTube:** [Unfiltered_Kalpita](https://youtube.com/@Unfiltered_Kalpita)
+- 📸 **Instagram:** [@unfiltered_kalpita](https://instagram.com/unfiltered_kalpita)
+
+---
+
+### 📈 Activity & Trophies
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kalpitagavas&theme=tokyonight&column=4" alt="kalpitagavas trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kalpitagavas&theme=tokyonight&no-bg=true&margin-w=15" />
   </a>
 </p>
 
----
-
-### 📝 About Me
-I am a **Software Developer** with 2+ years of experience in the tech industry. Currently, I am evolving my expertise from a strong foundation in **.NET & SQL Server** toward building high-performance, scalable applications using the **MERN Stack**.
-
-- 🔭 **Current Focus:** Building **TaskSync-Pro**, a Workforce Management System with RBAC.
-- 🌱 **Learning Path:** Advanced Node.js patterns, Next.js, and Cloud Deployment.
-- 💻 **Tech Shift:** Moving from enterprise .NET MVC roles to modern Full-Stack JavaScript ecosystems.
-- 💬 **Ask me about:** React state management, building secure REST APIs, or how I transitioned between stacks.
-- ⚡ **Fun Fact:** When I'm not debugging, I'm a Content Creator (Unfiltered_Kalpita) and a Resin Artist!
-
----
-
-### 🚀 Featured Project: TaskSync-Pro
-*A robust Workforce Management System designed for high performance and seamless user experience.*
-- **Backend:** Node.js, Express, MongoDB (Secured with JWT & Bcrypt).
-- **Frontend:** React.js, Context API (State Management), Tailwind CSS.
-- **Key Feature:** **Role-Based Access Control (RBAC)** allowing Managers and Employees distinct permissions and dashboard views.
-- **Architecture:** Clean MVC pattern with centralized API handling via Axios interceptors.
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpitagavas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kalpitagavas&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
-<p align="left">
-<a href="https://www.linkedin.com/in/kalpita-gawas-76177a213/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:kalpitagavas20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://youtube.com/@Unfiltered_Kalpita" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<p align="center">
+  <b>Thanks for visiting! Let's build something amazing together.</b><br>
+  <img src="https://raw.githubusercontent.com/Mayank-Hacker/Mayank-Hacker/master/assets/wave.gif" width="30px">
 </p>
-
-- 🌐 Portfolio: [kalpitagavas.github.io](https://kalpitagavas.github.io/)
-- 📄 Resume: [Download Here](https://drive.google.com/file/d/1VavNKtUz-M_egby3XYL5TdKVz3FQFouc/view?usp=sharing)
