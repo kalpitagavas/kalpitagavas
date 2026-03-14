@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Full-Stack%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=40" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   <img src="https://img.shields.io/badge/OpenSource-Love-orange.svg" />
   <img src="https://img.shields.io/badge/Portfolio-Live-blue.svg" />
@@ -81,21 +77,7 @@
 - [ ] **Phase 3:** Deployment using **Docker** and AWS/Vercel.
 - [ ] **Phase 4:** Migrating Portfolio to **Next.js 14**.
 
----
 
-### 🏆 Trophies & Contributions
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kalpitagavas&theme=tokyonight&no-bg=true&margin-w=15" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kalpitagavas/kalpitagavas/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
 
 ### 📫 Connect with Me
 <p align="center">
