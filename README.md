@@ -71,7 +71,33 @@
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=300&section=header&text=KALPITA%20GAVAS&fontSize=80&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20|%20MERN%20%26%20.NET%20Architect&descAlignY=51&descSize=22" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively_Hiring-success?style=for-the-badge&logo=workplace&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Mumbai_IN-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-MERN_Expertise-blue?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kalpita-gawas-76177a213"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kalpitagavas20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://kalpitagavas.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+---
+
+### 🕵️ System Diagnosis: `whoami`
+
+```zsh
+# User Profile
+- NAME: Kalpita Gavas
+- CORE_FOUNDATION: .NET Framework & SQL Server (2+ Years)
+- EVOLUTION: Mastering MERN Stack (MongoDB, Express, React, Node.js)
+- CURRENT_VERSION: v2.0 (Full-Stack Engineer)
+- PASSIONS: [Clean Architecture, Scalable APIs, Resin Art, Digital Storytelling]
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
   <b>Happy Coding! ✨</b>
