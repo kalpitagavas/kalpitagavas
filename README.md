@@ -1,56 +1,56 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Kalpita%20Gavas&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=51&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=280&section=header&text=Kalpita%20Gavas&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=51&descSize=20" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/kalpita-gawas-76177a213"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kalpitagavas20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://youtube.com/@Unfiltered_Kalpita"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://kalpitagavas.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
-### 💫 About Me
-I am a **Software Developer** with over 2 years of professional experience in the tech ecosystem. I specialize in bridging the gap between structured enterprise backends and dynamic, modern frontends.
+### 💫 Professional Summary
+I am a **Software Developer** with 2+ years of experience in enterprise software development. I specialize in building robust, scalable web applications and am currently deep-diving into the **MERN ecosystem** to deliver modern, high-performance solutions.
 
-- 🚀 **Transitioning:** Moving from **.NET/SQL** architecture to the **MERN Stack** mastery.
-- 🔭 **Current Project:** Architecting **TaskSync-Pro** — a high-scale workforce management tool.
-- 🎓 **Education:** B.Sc in IT (2021) from KES Shroff College, Mumbai.
-- 🎨 **Creative Side:** I run a YouTube channel with daily vlogs and create custom Resin Art.
-- 💬 **Goal:** To deliver lightweight, high-performance web solutions that align with business goals.
+- 🚀 **The Transition:** Leveraging my **.NET/SQL** foundation to master **React, Node.js, and MongoDB**.
+- 🔭 **Current Architecture:** Developing **TaskSync-Pro** — an enterprise-grade workforce management tool with Role-Based Access Control (RBAC).
+- ⚙️ **Focus:** System integration, secure API development, and optimizing frontend performance.
+- 🎨 **Beyond the Code:** Creative enthusiast specializing in **Resin Art** and digital storytelling.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Tech Stack & Tools
 
-| Category | Skills & Tools |
+| Domain | Proficiency |
 | :--- | :--- |
-| **Frontend** | `React.js` `Next.js` `Redux` `Tailwind CSS` `Bootstrap` `HTML5/CSS3` |
-| **Backend** | `Node.js` `Express.js` `ASP.NET MVC` `.NET Core` |
-| **Database** | `MongoDB` `SQL Server` `MySQL` |
-| **DevOps/Tools** | `Git` `GitHub Actions` `Postman` `Vite` `npm/yarn` |
+| **Frontend** | `React.js` `Next.js` `Redux` `Tailwind CSS` `Bootstrap` `JavaScript (ES6+)` |
+| **Backend** | `Node.js` `Express.js` `ASP.NET MVC` `.NET Core` `RESTful APIs` |
+| **Database** | `MongoDB` `MS SQL Server` `MySQL` |
+| **DevOps & Tools** | `Git` `GitHub Actions` `Postman` `Vite` `npm/yarn` |
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Featured Engineering Projects
 
 #### 📂 [TaskSync-Pro](https://github.com/kalpitagavas/TaskSync-Pro)
-*Workforce Management System with Role-Based Access Control.*
-- **Tech:** React, Node.js, MongoDB, JWT, Axios.
-- **Impact:** Solves the complexity of manager-employee task delegation with a secure, real-time dashboard.
+*Workforce Management System with Granular Access Control.*
+- **Architecture:** Node.js/Express backend with a React/Vite frontend.
+- **Security:** Implemented **JWT Authentication** and **Bcrypt** password hashing.
+- **Highlight:** Designed a custom **AuthContext** provider for seamless state persistence across sessions.
 
 #### 📂 [SpendWise Dashboard](https://github.com/kalpitagavas/SpendWise)
-*Personal Expense Tracker with visual analytics.*
-- **Tech:** React, Chart.js, LocalStorage.
-- **Impact:** Helps users visualize spending habits through interactive data visualization.
+*Real-time expense tracking and data visualization.*
+- **Tech:** React, Chart.js, and local storage synchronization.
+- **Highlight:** Focused on UI/UX to ensure a lightweight and performant user interface.
 
 ---
 
-### 📊 GitHub Ecosystem
+### 📊 Engineering Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kalpitagavas&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpitagavas&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kalpitagavas&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpitagavas&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -59,27 +59,16 @@ I am a **Software Developer** with over 2 years of professional experience in th
 
 ---
 
-### 🎥 Content & Creativity
-Check out my latest vlogs and creative projects here:
-- 🎬 **YouTube:** [Unfiltered_Kalpita](https://youtube.com/@Unfiltered_Kalpita)
-- 📸 **Instagram:** [@unfiltered_kalpita](https://instagram.com/unfiltered_kalpita)
-
----
-
-### 📈 Activity & Trophies
+### 🏆 Achievements & Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kalpitagavas&theme=tokyonight&no-bg=true&margin-w=15" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
 ---
 
 <p align="center">
-  <b>Thanks for visiting! Let's build something amazing together.</b><br>
+  <b>Let's connect and build something impactful!</b><br>
   <img src="https://raw.githubusercontent.com/Mayank-Hacker/Mayank-Hacker/master/assets/wave.gif" width="30px">
 </p>
