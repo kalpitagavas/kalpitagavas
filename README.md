@@ -1,51 +1,62 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=280&section=header&text=Kalpita%20Gavas&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20MERN%20%26%20.NET&descAlignY=51&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Kalpita%20Gavas&fontSize=90&animation=fadeIn&desc=Full-Stack%20Engineer%20|%20MERN%20Expert%20in%20the%20Making&descAlignY=51&descSize=20" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  <img src="https://img.shields.io/badge/OpenSource-Love-orange.svg" />
+  <img src="https://img.shields.io/badge/Portfolio-Live-blue.svg" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/kalpita-gawas-76177a213"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kalpitagavas20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://kalpitagavas.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 Technical Trajectory
-I am a **Software Developer** specializing in high-performance web architectures. With a professional background in **enterprise .NET environments**, I am currently scaling my expertise into the **MERN Stack** to build modern, distributed systems.
-
-- 💻 **Experience:** 2+ Years in Full-Stack Development & Database Management.
-- 🛠️ **Current Build:** [TaskSync-Pro](https://github.com/kalpitagavas/TaskSync-Pro) — Workforce management with RBAC & JWT.
-- 📈 **Learning:** Microservices architecture, Next.js 14, and Cloud Native patterns.
-- ⚡ **Commitment:** Delivering clean, testable code that drives business value.
-
----
-
-### 🧰 The Master Tech Stack
+### 🌟 About the Developer
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,js,html,css" alt="Frontend Skills" />
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=kalpitagavas&repo=TaskSync-Pro&theme=tokyonight" />
+  
+  Hi! I'm **Kalpita**, a tech-enthusiast based in 🇮🇳 **Mumbai**. <br><br>
+  I specialize in transforming complex business logic into **seamless user experiences**. <br>
+  With a strong foundation in **.NET MVC**, I am currently pioneering modern web solutions <br> 
+  using the **MERN Stack** (MongoDB, Express, React, Node.js).
 </p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,mssql,postman,git" alt="Backend & Tools" />
-</p>
+
+- ⚡ **Superpowers:** Converting Coffee ☕ into clean, bug-free code 💻.
+- 🎯 **Current Mission:** Mastering **System Design** and **Scalable Architectures**.
+- 🎨 **Creative Soul:** When the IDE is closed, I'm working on **Resin Art** or filming **Vlogs**.
 
 ---
 
-### 📂 High-Value Repositories
-
-| Project | Tech Stack | Key Architectural Focus |
-| :--- | :--- | :--- |
-| **TaskSync-Pro** | `MERN` `JWT` `RBAC` | Implementing secure Role-Based Access Control and centralized state. |
-| **SpendWise** | `React` `Chart.js` | Performance-focused data visualization and optimized storage logic. |
-| **WorkSync-API** | `Node.js` `Express` | Building scalable RESTful endpoints with error-handling middleware. |
-
----
-
-### 📊 GitHub Activity Hub
+### 🛠️ Technical Toolkit
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kalpitagavas&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpitagavas&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,dotnet,mysql,html,css,tailwind,bootstrap,git,postman,vscode,figma" />
+</p>
+
+---
+
+### 🚀 Featured Engineering
+
+> [!IMPORTANT]
+> **TaskSync-Pro** is my flagship project! It features **Role-Based Access Control (RBAC)**, 
+> allowing for granular permission management between Managers and Employees.
+
+- 🏗️ **Architecture:** Clean MVC pattern with a decoupled REST API.
+- 🔐 **Security:** JWT-based Auth, Bcrypt encryption, and secure middleware.
+- 📊 **SpendWise:** A secondary project focusing on **Data Visualization** using Chart.js.
+
+---
+
+### 📊 GitHub Pulse
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kalpitagavas&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpitagavas&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
 <p align="center">
@@ -54,31 +65,28 @@ I am a **Software Developer** specializing in high-performance web architectures
 
 ---
 
-### 🏆 Technical Recognition
+### 🏆 Trophies & Contributions
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kalpitagavas&theme=tokyonight&no-bg=true&margin-w=15" />
   </a>
 </p>
 
----
-
-### 🐍 Contribution Dynamics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kalpitagavas/kalpitagavas/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/kalpitagavas/kalpitagavas/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-### 💬 Let's Connect
-> "The best way to predict the future is to code it."
-
-<p align="left">
-  <b>Reach out for collaborations, tech discussions, or opportunities:</b><br>
-  • 💼 LinkedIn: [Kalpita Gavas](https://linkedin.com/in/kalpita-gawas-76177a213)<br>
-  • 📧 Email: [kalpitagavas20@gmail.com](mailto:kalpitagavas20@gmail.com)
+### 📫 Connect with Me
+<p align="center">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" />
 </p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/Mayank-Hacker/Mayank-Hacker/master/assets/wave.gif" width="30px">
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
+  <b>Happy Coding! ✨</b>
 </p>
