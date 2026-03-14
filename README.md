@@ -3,10 +3,14 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Full-Stack%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  <img src="https://img.shields.io/badge/OpenSource-Love-orange.svg" />
-  <img src="https://img.shields.io/badge/Portfolio-Live-blue.svg" />
-  <img src="https://img.shields.io/badge/Status-Hiring-success.svg" />
+  <img src="https://img.shields.io/badge/Stack-MERN_&_DotNet-blue.svg" />
+  <img src="https://img.shields.io/badge/Deployment-Netlify-00C7B7?logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Actively_Hiring-success.svg" />
 </p>
 
 <p align="center">
@@ -22,14 +26,12 @@
 <p align="left">
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=kalpitagavas&repo=TaskSync-Pro&theme=tokyonight" />
   
-  Hi! I'm **Kalpita**, a tech-enthusiast based in 🇮🇳 **Mumbai**. <br><br>
-  I specialize in transforming complex business logic into **seamless user experiences**. <br>
-  With a strong foundation in **.NET MVC**, I am currently pioneering modern web solutions <br> 
-  using the **MERN Stack** (MongoDB, Express, React, Node.js).
+  Hi! I'm **Kalpita**, a Software Developer based in 🇮🇳 **Mumbai** with 2+ years of experience. <br><br>
+  I specialize in building structured, scalable web applications. I am currently leveraging my strong **.NET & SQL Server** foundation to master the **MERN Stack** (MongoDB, Express, React, Node.js).
 </p>
 
-- ⚡ **Superpowers:** Converting Coffee ☕ into clean, bug-free code 💻.
-- 🎯 **Current Mission:** Mastering **System Design** and **Scalable Architectures**.
+- ⚡ **Superpowers:** Bridging the gap between Enterprise Backends and Modern Frontends.
+- 🎯 **Current Mission:** Completing **TaskSync-Pro** with full RBAC integration.
 - 🎨 **Creative Soul:** When the IDE is closed, I'm working on **Resin Art** or filming **Vlogs**.
 
 ---
@@ -38,22 +40,22 @@
 
 | Category | Skills & Technologies |
 | :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,js,html,css" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,js,html,css" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,postman" /> |
 | **Database** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,mssql" /> |
-| **Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma" /> |
+| **Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,netlify" /> |
 
 ---
 
 ### 🚀 Featured Engineering
 
 > [!IMPORTANT]
-> **TaskSync-Pro** is my flagship project! It features **Role-Based Access Control (RBAC)**, 
-> allowing for granular permission management between Managers and Employees.
+> **TaskSync-Pro** is my current flagship project! It focuses on **Role-Based Access Control (RBAC)**, 
+> ensuring secure and distinct workflows for Managers and Employees.
 
-- 🏗️ **Architecture:** Clean MVC pattern with a decoupled REST API.
-- 🔐 **Security:** JWT-based Auth, Bcrypt encryption, and secure middleware.
-- 📊 **SpendWise:** A secondary project focusing on **Data Visualization** using Chart.js.
+- 🏗️ **Architecture:** Clean MVC pattern with a decoupled Node/Express REST API.
+- 🔐 **Security:** JWT-based Authentication and Bcrypt password hashing.
+- 📊 **SpendWise:** A personal finance dashboard project using React and Chart.js.
 
 ---
 
@@ -73,11 +75,25 @@
 ### 🗺️ Project Roadmap (2026)
 
 - [x] **Phase 1:** Core Authentication & RBAC Logic (TaskSync-Pro).
-- [ ] **Phase 2:** Real-time Notifications using **Socket.io**.
-- [ ] **Phase 3:** Deployment using **Docker** and AWS/Vercel.
-- [ ] **Phase 4:** Migrating Portfolio to **Next.js 14**.
+- [ ] **Phase 2:** Advanced State Management with **Redux Toolkit**.
+- [ ] **Phase 3:** Full Deployment to **Netlify** & **Render**.
+- [ ] **Phase 4:** Expanding the Employee Management Dashboard features.
 
+---
 
+### 🏆 Trophies & Contributions
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kalpitagavas&theme=tokyonight&no-bg=true&margin-w=15" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalpitagavas/kalpitagavas/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
 
 ### 📫 Connect with Me
 <p align="center">
@@ -87,10 +103,7 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
+  <i>"Don't wait for opportunity. Create it."</i><br>
   <b>Happy Coding! ✨</b><br>
   <img src="https://raw.githubusercontent.com/Mayank-Hacker/Mayank-Hacker/master/assets/wave.gif" width="30px">
 </p>
